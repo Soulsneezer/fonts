@@ -35,7 +35,3 @@ axes {
   min_value: 100.0
   max_value: 900.0
 }
-source {
-  repository_url: "https://github.com/Omnibus-Type/Saira"
-  commit: "b0edbaa6955e047b134a85a667be194b45c6a6e8"
-}
